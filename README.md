@@ -106,7 +106,7 @@
  
     ## 5. Örnek Eğitim Projeleri
 
-### 4. Başlangıç Seviye Projeler
+## 4. Başlangıç Seviye Projeler
 
 #### 1. Hesap Makinesi Uygulaması
 - Temel matematiksel işlemler
@@ -123,7 +123,8 @@
 - JSON işleme
 - Görsel veri gösterimi
 
-### 5. Gelişmiş Teknikler
+
+## 5. Gelişmiş Teknikler
 
 #### 1. Veri Yönetimi
 - Core Data kullanımı
