@@ -104,8 +104,6 @@
   - Eş zamanlı programlama
   - Zaman uyumsuz işlemler
  
-    ## 5. Örnek Eğitim Projeleri
-
 ## 4. Başlangıç Seviye Projeler
 
 #### 1. Hesap Makinesi Uygulaması
